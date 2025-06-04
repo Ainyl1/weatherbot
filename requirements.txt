@@ -1,0 +1,5 @@
+openmeteo-requests
+pandas
+requests
+requests-cache
+retry-requests
